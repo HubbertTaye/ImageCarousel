@@ -1,12 +1,13 @@
 # 🎠Simple Image Carousel
 
 Rotates through images using a next and back button.
+**Link to Project:** https://hubberttaye.github.io/ImageCarousel/
 
-![alt tag](img/imgcarousel.png)
+![image carousel screenshot](img/imgcarousel.png)
 
 ## How it's Made:
 
-**languages used:** HTML5, CSS3, and jquery
+**Languages used:** HTML5, CSS3, and jquery
 
 Added an event listener onto the back and next button which then moves down or up an array of pictures respectively. Used .attribute method to update the source tag on my image element to change the pictures in the DOM.  
 
